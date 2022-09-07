@@ -2,7 +2,7 @@
 //  Pokedex.swift
 //  APITests
 //
-//  Created by Charlie Rick on 2022-08-30.
+//  Created by Bruce Rick on 2022-08-30.
 //
 
 import Foundation
